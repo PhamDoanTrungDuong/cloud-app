@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-col justify-center md:items-start w-full px-2 py-8">
           <p className="text-2xl font-medium">Unique Sequencing & Production</p>
           <h3 className="py-3 text-5xl md:text-7xl font-bold">
-            Clould Management
+            Cloud Management
           </h3>
           <p className="text-2xl pb-3">This is our Tech brand.</p>
           <button className="py-3">Get Started</button>
